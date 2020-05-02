@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Jake</string>
+    <string name="name">Shovel Knight</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">A practitioner of the ancient code of Shovelry,
+        Shovel Knight can do almost anything with his signature weapon: the Shovel Blade.
+        His ingenuity and quick thinking have won him many battles,
+        even though his stature is small! Always honest and helpful,
+        Shovel Knight lives by the creed of Shovelry: Slash Mercilessly and Dig Tirelessly!
+        \n\n
+        Long ago, the lands were untamed, and roamed by legendary adventurers!
+        Of all heroes, none shone brighter than Shovel Knight and Shield Knight.
+        But their travels together ended at the Tower of Fate; when a cursed amulet wrought a terrible magic.
+        When Shovel Knight awoke, the tower was sealed, and Shield Knight was gone.
+        His spirit broken, a grieving Shovel Knight went into a life of solitude.
+        But without champions, the land was seized by a vile power: the Enchantress and her Order of No Quarter!
+        Now, the tower is unsealed, and devastation looms. A new adventure is about to begin…</string>
+    <string name="small_star">Small star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
